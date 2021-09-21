@@ -5,3 +5,13 @@
 .ui.red.fluid.card {
     margin-bottom: 2em;
 }
+
+.ui.placeholder.segment {
+    margin-top: 2rem;
+    padding-top: 4rem;
+    font-size: 1.5em;
+}
+
+span {
+    font-weight: bolder;
+}
